@@ -20,5 +20,5 @@
 5. Masukkan nilainya (bil1), random()% 0.5
 6. Cetak (bil1)
 
-![img](ss.perulangan2/png)  
+![img](ss.perulangan2/png)   
  
